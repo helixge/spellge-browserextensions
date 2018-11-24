@@ -1,6 +1,6 @@
-# spellge
+# SpellGe - Browser Extensions
 
-Georgian spelling
+ქართული მართლწერის შემოწმება ბროუზერში
 
 ## Installation
 
